@@ -1,0 +1,23 @@
+{
+  "name": "employeemanagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matt1cheney/employeeManagement.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matt1cheney/employeeManagement/issues"
+  },
+  "homepage": "https://github.com/Matt1cheney/employeeManagement#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  }
+}
